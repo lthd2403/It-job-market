@@ -5,5 +5,5 @@ Images references:
 mainpage-image: by Imagine America August 30, 2019
 https://www.imagine-america.org/state-information-technology-job-market-2019/
 
-logo-image: oregon.gov
-https://www.oregon.gov/jobs/pages/index.aspx
+home logo:
+https://icons8.com/icons/set/50-50-pixels
