@@ -94,3 +94,19 @@ div img {
     width: 200px;
 }
 
+.quotes {
+    padding: 100px 500px;
+    background-color: #E5E7EB;
+
+}
+
+q {
+    font-size: 36px;
+    font-weight: 100;
+}
+
+#author {
+    font-size: 26px;
+    text-align: right;
+    font-weight: 750;
+}
