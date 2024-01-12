@@ -64,3 +64,33 @@ button {
     height: 280px;
 }
 
+h1 {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.list-top {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    padding-bottom: 20px;
+}
+
+.range {
+    max-width: 200px;
+}
+
+.text {
+    text-align: center;
+    font-size: large;
+}
+
+div img {
+    height: 200px;
+    width: 200px;
+}
+
